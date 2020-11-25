@@ -1,6 +1,13 @@
 # xylophone_flutter
 
-A new Flutter application.
+Xylophone Flutter application.
+
+# Icon
+![Untitled design (5)](https://user-images.githubusercontent.com/64004539/100260198-25623300-2f6f-11eb-93ca-32fe2be2565f.png)
+
+# App on real device
+![WhatsApp Image 2020-11-25 at 10 30 51 PM](https://user-images.githubusercontent.com/64004539/100260300-42970180-2f6f-11eb-9a36-414211260fd8.jpeg)
+
 
 ## Getting Started
 
