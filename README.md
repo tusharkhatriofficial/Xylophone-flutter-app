@@ -7,6 +7,7 @@ Xylophone Flutter application.
 
 # App on real device
 ![WhatsApp Image 2020-11-25 at 10 30 51 PM](https://user-images.githubusercontent.com/64004539/100260300-42970180-2f6f-11eb-9a36-414211260fd8.jpeg)
+![WhatsApp Image 2020-11-25 at 10 30 28 PM](https://user-images.githubusercontent.com/64004539/100260407-5fcbd000-2f6f-11eb-9a2c-e6a6ce32b85c.jpeg)
 
 
 ## Getting Started
